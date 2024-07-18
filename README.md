@@ -3,6 +3,17 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Seokhyun's%20Github&fontSize=70" />
 </div>
 
+<br>
+
+<div align="center">
+  <a href="s">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeokhyunRew&exclude_repo=CJ-Routing-Optimization-Algorithm&layout=compact&theme=tokyonight" "width=100%" />
+  </a>
+  <a href="s">
+    <img src="https://github-readme-stats.vercel.app/api?username=SeokhyunRew&theme=tokyonight&show_icons=true" width="50%" />
+  </a>
+</div>
+
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 
